@@ -1,4 +1,4 @@
-# KaggleTitanic
+# KaggleTitanic -achieved accuracy of 78.9%
 data science projects
 The Challenge
 
